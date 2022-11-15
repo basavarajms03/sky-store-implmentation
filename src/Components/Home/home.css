@@ -1,0 +1,32 @@
+.carousel-caption {
+  background: linear-gradient(
+    0deg,
+    #030f1f 0,
+    rgba(3, 15, 31, 0.987) 4.3%,
+    rgba(3, 15, 31, 0.951) 9.2%,
+    rgba(3, 15, 31, 0.896) 14.6%,
+    rgba(3, 15, 31, 0.825) 20.5%,
+    rgba(3, 15, 31, 0.741) 26.8%,
+    rgba(3, 15, 31, 0.648) 33.5%,
+    rgba(3, 15, 31, 0.55) 40.4%,
+    rgba(3, 15, 31, 0.45) 47.6%,
+    rgba(3, 15, 31, 0.352) 55%,
+    rgba(3, 15, 31, 0.259) 62.5%,
+    rgba(3, 15, 31, 0.175) 70.1%,
+    rgba(3, 15, 31, 0.104) 77.7%,
+    rgba(3, 15, 31, 0.049) 85.2%,
+    rgba(3, 15, 31, 0.013) 92.7%,
+    rgba(3, 15, 31, 0)
+  ) !important;
+  width: 100% !important;
+  left: 0 !important;
+  bottom: 0px !important;
+}
+
+.home-container {
+  padding-bottom: 50px;
+}
+
+.carousel-indicators {
+  margin-bottom: 0px;
+}
